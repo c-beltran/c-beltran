@@ -32,6 +32,10 @@
 
 ### 📕 Latest Blog Posts
 
+- [Journey of learning a non-technical skill](https://beltranca.medium.com/the-journey-of-learning-a-non-technical-skill-8ff741cc6bd)
+- [Budget photo album using aws S3](https://beltranca.medium.com/budget-photo-album-using-aws-s3-fbef342b2bcf)
+- [Survailance camera using Raspberry-pi, motioneye-os and Google drive](https://beltranca.medium.com/create-a-day-night-vision-surveillance-camera-using-raspberry-pi-with-motioneyeos-and-google-548b7189fa58)
+
 ---
 
 <details>
