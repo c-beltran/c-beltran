@@ -11,11 +11,9 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://cbeltran.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://cbeltran.com/#gh-dark-mode-only)
+[🌐](https://cbeltran.com)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/c-beltran/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/c-beltran/#gh-dark-mode-only)
+[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/c-beltran)
 
 ### Languages and Tools:
 
