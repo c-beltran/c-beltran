@@ -1,5 +1,11 @@
 # Hi there, I'm Carlos ![](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif)
 
+<br />
+
+[<img src="portfolio.svg" width="26" height="26" alt="Website">](https://cbeltran.com)
+&nbsp;&nbsp;
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
+
 
 ## I'm Curious, Adventurous, Willing to Learn, and a Developer!!
 
@@ -8,12 +14,6 @@
 - 🤝 I’m looking to collaborate with non-profit organizations
 - 🥅 2022 Goals: Learn more about system design
 - ⚡ Fun fact: I love to work on cars
-
-### Connect with me:
-
-[🌐](https://cbeltran.com)
-&nbsp;&nbsp;
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 
 ### Languages and Tools:
 
