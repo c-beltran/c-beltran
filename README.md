@@ -13,7 +13,6 @@
 
 [🌐](https://cbeltran.com)
 &nbsp;&nbsp;
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/c-beltran)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 
 ### Languages and Tools:
