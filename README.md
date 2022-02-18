@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on a random fun fact API built in Go
 - 🌱 I’m currently learning AWS and become certified
-- 🤝 I’m looking to collaborate with non-profit organizations
+- 🤝 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about system design
 - ⚡ Fun fact: I love to work on cars
 
